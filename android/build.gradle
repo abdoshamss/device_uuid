@@ -1,3 +1,4 @@
+package android
 
 group 'it.thoson.device_uuid'
 version '1.0-SNAPSHOT'
