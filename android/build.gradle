@@ -27,7 +27,8 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    namespace 'it.thoson.device_uuid'
+//    namespace 'it.thoson.device_uuid'
+    namespace 'com.example.deviceuuid'
     compileSdkVersion 31
 
     compileOptions {
