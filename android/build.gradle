@@ -1,4 +1,4 @@
-package android
+// package android
 
 group 'it.thoson.device_uuid'
 version '1.0-SNAPSHOT'
@@ -28,8 +28,8 @@ apply plugin: 'kotlin-android'
 
 android {
 //    namespace 'it.thoson.device_uuid'
-    namespace 'com.example.deviceuuid'
-    compileSdkVersion 31
+    namespace 'com.example.device_uuid'
+    compileSdkVersion 34
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
